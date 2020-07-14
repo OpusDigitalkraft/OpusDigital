@@ -1,25 +1,2 @@
-Material Design for Bootstrap
-Version: MDB FREE 4.19.1
-
-Documentation:
-https://mdbootstrap.com/
-
-Getting started:
-https://mdbootstrap.com/docs/jquery/getting-started/download/
-
-Tutorials:
-MDB-Bootstrap: https://mdbootstrap.com/education/bootstrap/
-MDB-Wordpress: https://mdbootstrap.com/education/wordpress/
-
-Templates:
-https://mdbootstrap.com/templates/
-
-License:
-https://mdbootstrap.com/general/license/
-
-Support:
-https://mdbootstrap.com/forums/forum/support/
-
-Contact:
-office@mdbootstrap.com
-
+mdbootstrap-ecommerce-website
+i am creating a ecommerce website i have created a mdbootstarp files and i want to function the cart completely from scratch as i am new to mdbootstrap. I want to make a product list page from where we can add products to cart with a full checkout system. i am not sure where and which javascript to add so that the products are added to cart and it shows the total amount to pay....plz help...as i am new to bootstrap.
